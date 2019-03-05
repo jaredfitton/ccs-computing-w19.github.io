@@ -3,7 +3,7 @@
 | Student | Repo | Platform | Synopsis |
 |---------|------|----------|----------|
 | Adam    | | | |
-| Akshay/Jared | | Python GUI | TBD |
+| Akshay/Jared | [CCS Parking](https://github.com/ccs-computing-w19/eye_see_you)| Python GUI | TBD |
 | Ben | | |
 | Daniel (and Ben?) | [tetris_ai](https://github.com/ccs-computing-w19/tetris_ai)| Python | Tetris AI |
 | Gabriel | | Python | Presentation/Impl of Prolog using Warren Abstract Machine |
